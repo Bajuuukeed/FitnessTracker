@@ -29,5 +29,6 @@ To maximize my learning, I extensively explored the Qt framework's architecture 
 <img width="545" height="524" alt="image" src="https://github.com/user-attachments/assets/2d2e6815-1e3c-4805-bdbf-0a8cfa96d5ab" />
 <img width="896" height="626" alt="image" src="https://github.com/user-attachments/assets/098939c8-64ed-4671-bd01-1922010f8cd3" />
 <img width="897" height="627" alt="image" src="https://github.com/user-attachments/assets/b2089bef-854b-4b90-8b82-becb66270136" />
+<img width="890" height="616" alt="image" src="https://github.com/user-attachments/assets/bc78e59d-a4c5-4595-b250-f510a38258df" />
 <img width="899" height="626" alt="image" src="https://github.com/user-attachments/assets/a965c6ab-98e1-45e9-b486-a6f3b4f425b2" />
 <img width="894" height="625" alt="image" src="https://github.com/user-attachments/assets/7f92092a-6764-43f4-b2cc-1e1ab1c06831" />

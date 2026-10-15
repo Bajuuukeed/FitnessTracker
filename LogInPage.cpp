@@ -26,7 +26,7 @@ LogInPage::LogInPage(QWidget* parent) : QWidget(parent) {
     this->setFixedWidth(550);
 
     fundalAnimat = new QLabel(this);
-    QMovie* animatie = new QMovie("C:/Users/Cata/Documents/InformaticaFacultate/ForGitHub/FitnessTracker/GIFULMEU.gif"); // Pune calea exacta catre fisier
+    QMovie* animatie = new QMovie("C:/Users/Cata/Documents/InformaticaFacultate/ForGitHub/FitnessTracker/GIFULMEU.gif");
     fundalAnimat->setMovie(animatie);
     fundalAnimat->resize(this->size());
     fundalAnimat->setScaledContents(true);
@@ -156,7 +156,7 @@ void LogInPage::LogarePagina(){
         this->hide();
         MainInterface* PaginaFitness = new MainInterface();
         connect(this, &LogInPage::trimitenume, PaginaFitness, &MainInterface::primesteNume);
-        connect(this, &LogInPage::trimiteparola, PaginaFitness, &MainInterface::primesteParola); // Conectam la noul slot
+        connect(this, &LogInPage::trimiteparola, PaginaFitness, &MainInterface::primesteParola); 
         emit trimitenume(ceusernameampus);
         emit trimiteparola(ceparolaampus);
         PaginaFitness->show();
